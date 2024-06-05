@@ -1,4 +1,4 @@
-# Introducing Cupid👼
+# Introducing Cupid👼 : Dating application for professionals.
 
 ## Screenshots
 <p>
