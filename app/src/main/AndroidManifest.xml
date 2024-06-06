@@ -25,14 +25,14 @@
             android:name="com.google.firebase.messaging.default_notification_color"
             android:resource="@color/background" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.activity.MainActivity"
             android:exported="false"/>
         <activity
-            android:name=".FCMNotification.Notifications"
+            android:name=".ui.activity.Onboarding.WelcomeScreen"
             android:exported="false" />
 
         <activity
-            android:name=".Onboarding.Splash_Screen"
+            android:name=".ui.activity.splash.Splash_Screen"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

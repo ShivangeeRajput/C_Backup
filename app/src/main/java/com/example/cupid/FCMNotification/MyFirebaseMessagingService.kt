@@ -8,6 +8,7 @@ import android.content.Intent
 import android.os.Build
 import android.widget.RemoteViews
 import androidx.core.app.NotificationCompat
+import com.example.cupid.ui.activity.Onboarding.WelcomeScreen
 import com.example.cupid.R
 import com.google.firebase.messaging.FirebaseMessagingService
 import com.google.firebase.messaging.RemoteMessage
@@ -35,7 +36,8 @@ class MyFirebaseMessagingService: FirebaseMessagingService() {
 
     //generating the notification
     fun generateNotification(title:String,message:String){
-        val intent=Intent(this,Notifications::class.java)
+        val intent=Intent(this, WelcomeScreen::class.java)
+        intent.action = "NOTIFICATIONS_ACTION"
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
         val pendingIntent=PendingIntent.getActivity(this,0,intent,PendingIntent.FLAG_ONE_SHOT
                 or PendingIntent.FLAG_IMMUTABLE)

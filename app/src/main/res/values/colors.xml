@@ -10,4 +10,9 @@
     <color name="gray">#F3F3F3</color>
     <color name="text_gray">#B2222222</color>
     <color name="shimmer_bg">#B2707070</color>
+    <color name="adpink">#F5D5DE</color>
+    <color name="sbyellow">#F2F5D5</color>
+    <color name="legreen">#D5F5E7</color>
+    <color name="salesblue">#D5EDF5</color>
+    <color name="light_blue">#6495ED</color>
 </resources>
