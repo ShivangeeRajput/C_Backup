@@ -2,6 +2,8 @@
 
 ## Screenshots
 <p>
+<img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/baf7be3b-de7b-4505-ac6a-05d91924df7c.jpg" height="500" >
+<img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/70fd2194-043c-466f-bf7e-1eb0bfa06ccb.jpg" height="500" >
 <img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/5f3ff0cc-ac09-4ad6-bf46-d813571bbc84.jpg" height="500" >
 </p>
 
