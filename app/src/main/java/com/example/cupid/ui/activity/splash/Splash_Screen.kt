@@ -6,7 +6,7 @@ import android.os.Handler
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import com.example.cupid.R
-import com.example.cupid.ui.activity.Onboarding.WelcomeScreen
+import com.example.cupid.ui.activity.Onboarding.Welcome_Screen
 
 class Splash_Screen : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -17,7 +17,7 @@ class Splash_Screen : AppCompatActivity() {
         supportActionBar?.hide()
 
         Handler().postDelayed({
-            val intent= Intent(this@Splash_Screen, WelcomeScreen::class.java)
+            val intent= Intent(this@Splash_Screen, Welcome_Screen::class.java)
             startActivity(intent)
             finish()
         },3000)
