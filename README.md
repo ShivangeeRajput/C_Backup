@@ -5,7 +5,11 @@
 <img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/baf7be3b-de7b-4505-ac6a-05d91924df7c.jpg" height="500" >
 <img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/70fd2194-043c-466f-bf7e-1eb0bfa06ccb.jpg" height="500" >
 <img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/b04a7d72-5c71-4d82-b388-c1b9d4a37d86.jpg" height="500" >  
-  <img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/5f3ff0cc-ac09-4ad6-bf46-d813571bbc84.jpg" height="500" >
+<img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/8194fdaf-58de-4979-b59c-40958f4c4ce1.jpg" height="500" >
+<img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/6916dc9f-6d87-4219-b191-201b4994bf78.jpg" height="500" >
+<img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/890bd3ee-f7c3-43c7-829c-7b096a299038.jpg" height="500"" >
+
+<img src="https://github.com/ShivangeeRajput/Cupid/assets/100294737/5f3ff0cc-ac09-4ad6-bf46-d813571bbc84.jpg" height="500" >
 </p>
 
 ## Building With 🛠
