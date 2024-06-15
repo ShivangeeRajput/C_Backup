@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.activity.Onboarding.add_email">
+    tools:context=".ui.activity.Onboarding.AddEmail">
 
     <include layout="@layout/toolbar" />
 
@@ -56,7 +56,7 @@
             </com.google.android.material.textfield.TextInputLayout>
         </LinearLayout>
 
-        <com.google.android.material.button.MaterialButton
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/next"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

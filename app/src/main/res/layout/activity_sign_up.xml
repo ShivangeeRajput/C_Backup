@@ -65,7 +65,7 @@
             <com.google.android.material.textfield.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Second Name"
+                android:hint="Last Name"
                 app:boxStrokeColor="#000000"
                 app:hintTextColor="#3F51B5"
 
@@ -83,7 +83,7 @@
         </LinearLayout>
 
 
-        <com.google.android.material.button.MaterialButton
+        <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/next"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

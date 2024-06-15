@@ -18,10 +18,10 @@
         android:theme="@style/Theme.Cupid"
         tools:targetApi="31">
         <activity
-            android:name=".ui.activity.Onboarding.add_password"
+            android:name=".ui.activity.Onboarding.AddPassword"
             android:exported="false" />
         <activity
-            android:name=".ui.activity.Onboarding.add_email"
+            android:name=".ui.activity.Onboarding.AddEmail"
             android:exported="false" />
         <activity
             android:name=".ui.activity.Onboarding.SignUp"
@@ -46,6 +46,7 @@
         <activity
             android:name=".ui.activity.Onboarding.WelcomeScreen"
             android:exported="false" />
+
         <activity
             android:name=".ui.activity.splash.Splash_Screen"
             android:exported="true">
